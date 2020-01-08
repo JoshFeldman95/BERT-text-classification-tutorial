@@ -1,1 +1,3 @@
-env/
+.ipynb_checkpoints/
+BERT_tutorial_env/
+*.html
