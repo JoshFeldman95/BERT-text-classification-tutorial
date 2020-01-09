@@ -1,0 +1,5 @@
+pandas
+sklearn
+tensorflow==1.14
+tensorflow_hub
+bert-tensorflow

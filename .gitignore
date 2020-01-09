@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 BERT_tutorial_env/
 *.html
+data/
+aclImdb_v1/
