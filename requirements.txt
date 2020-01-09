@@ -1,5 +1,5 @@
 pandas
 sklearn
-tensorflow==1.14
+tensorflow==1.15.0
 tensorflow_hub
 bert-tensorflow
